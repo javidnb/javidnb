@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @javidnb
-- 👀 I’m interested in Frontend Frameworks
+- 👀 I’m interested in Frontend Frameworks, mainly using <img src="https://v9.angular.cn/assets/images/logos/angular/angular.png" style="width: 20px"/> Angular
 - 📫 reach me at cavidnebi@gmail.com
