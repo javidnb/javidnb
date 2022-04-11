@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @javidnb
 - 👀 I’m interested in Frontend Frameworks
-- 🌱 I’m currently learning Nuxt.js
 - 📫 reach me at cavidnebi@gmail.com
